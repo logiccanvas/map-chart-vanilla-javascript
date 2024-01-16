@@ -9,3 +9,6 @@ This JavaScript plugin enables the creation of an interactive maps chart, allowi
 **Highlighting on Hover:** Highlight one or more countries with different colors when the user hovers over them. This feature enhances the visual representation of selected countries.
 
 **Multi-Select Dropdown:** Enable users to select multiple countries from a convenient dropdown menu. This feature facilitates easy comparison and analysis of selected countries.
+
+**Demo**
+[Interactive Maps Chart](https://main--maps-chart.netlify.app/)
