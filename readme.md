@@ -11,4 +11,4 @@ This JavaScript plugin enables the creation of an interactive maps chart, allowi
 **Multi-Select Dropdown:** Enable users to select multiple countries from a convenient dropdown menu. This feature facilitates easy comparison and analysis of selected countries.
 
 **Demo**
-[Interactive Maps Chart](https://main--maps-chart.netlify.app/)
+[Interactive Maps Chart](https://logiccanvas.github.io/map-chart-vanilla-javascript)
